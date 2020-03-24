@@ -1,0 +1,1 @@
+using test.bat to checks score of image
